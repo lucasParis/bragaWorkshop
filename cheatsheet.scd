@@ -112,11 +112,12 @@ ToggleFF
 Sweep
 
 //envelopes
-EnvGen
 Env.perc
+Env.adsr
 Env.linen
 Env.pairs
 Env.xyc
+
 
 //Synthdef
 (
